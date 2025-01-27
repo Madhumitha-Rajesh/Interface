@@ -54,6 +54,12 @@ public class CalculatorProgram{
 
 Output-
 
-Addition of two integers:31
-Addition of three integers:510
-Addition of two doubles:30.299999999999997
+Enter the first number12
+Enter the second number:6
+RESULTS
+
+Addition:18.0
+Subtraction:6.0
+Multiplication:36.0
+Division:1.0
+
